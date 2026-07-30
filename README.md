@@ -265,4 +265,4 @@ roboparty_xr_teleop/
 
 ## 致谢
 
-本项目基于 [Unitree xr_teleoperate](https://github.com/unitreerobotics/xr_teleoperate) 修改实现。相关许可信息见 [LICENSE](LICENSE)。
+本项目基于 [Unitree xr_teleoperate](https://github.com/unitreerobotics/xr_teleoperate) 修改实现。相关许可及第三方归属信息见 [LICENSE](LICENSE) 和 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
